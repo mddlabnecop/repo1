@@ -1,2 +1,2 @@
-# This is my first  <br> Repo
+# This is my first Repo
 # Authors: xyz

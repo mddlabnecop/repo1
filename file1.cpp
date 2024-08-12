@@ -4,7 +4,7 @@ int main(){
     int a,b;
     cout<<"Input dimensions of matrix"<<endl;
     cin>>a>>b;
-    cout<<"Now enter entries row wise"<<endl;
+    cout<<"Enter entries row wise"<<endl;
     int array[a][b];
 
 

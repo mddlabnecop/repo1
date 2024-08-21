@@ -18,7 +18,7 @@ int main(){
      for(int j=0;j<a;j++){
         for(int i=0;i<b;i++){
         cout<<array[j][i];
-        cout<<"    ";
+        cout<<"   ";
     }
     cout<<""<<endl;
     }
